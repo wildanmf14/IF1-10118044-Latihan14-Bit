@@ -1,12 +1,12 @@
 package latihan.bit;
-
+/*
+Nama        : Wildan Muhammad Fikri
+Kelas       : IF1
+NIM         : 10118044
+Deskripsi   : Implementasi operasi bit
+ */
 public class Bit {
-	/*
-    Nama        : Wildan Muhammad Fikri
-    Kelas       : IF1
-    NIM         : 10118044
-    Deskripsi   : Implementasi operasi bit
-     */
+	
 	public static void main(String[] args) {
         int a = 60; // 60 = 0011 1100
         int b = 13; // 13 = 000 1101
